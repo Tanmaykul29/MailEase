@@ -1,0 +1,27 @@
+textarea {
+    min-height: 400px;
+}
+
+td{
+    padding: 2px;
+}
+
+tr {
+    border: 2px black solid;
+}
+
+.eml{
+    font-weight: bold;
+}
+
+.subj{
+    padding-left:25px;
+}
+.times {
+    width:100%;
+    text-align: right;
+}
+
+btn{
+    margin:2px;
+}
